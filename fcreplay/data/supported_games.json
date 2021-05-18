@@ -1,108 +1,143 @@
 {
 	"2020bb": {
 		"game_name": "2020 Super Baseball"
+		"aspect_ration": "4:3"
 	},
 	"3countb": {
 		"game_name": "3 Count Bout"
+		"aspect_ration": "4:3"
 	},
 	"3wonders": {
 		"game_name": "Three Wonders"
+		"aspect_ration": "4:3"
 	},
 	"altbeast": {
 		"game_name": "Altered Beast"
+		"aspect_ration": ""
 	},
 	"aodk": {
 		"game_name": "Aggressors of Dark Kombat"
+		"aspect_ration": "4:3"
 	},
 	"aof": {
 		"game_name": "Art of Fighting"
+		"aspect_ration": "4:3"
 	},
 	"aof2": {
 		"game_name": "Art of Fighting 2"
+		"aspect_ration": "4:3"
 	},
 	"aof3": {
 		"game_name": "Art of Fighting 3"
+		"aspect_ration": "4:3"
 	},
 	"armwar": {
 		"game_name": "Armored Warriors"
+		"aspect_ration": "4:3"
 	},
 	"asterix": {
 		"game_name": "Asterix"
+		"aspect_ration": "4:3"
 	},
 	"avsp": {
 		"game_name": "Alien vs Predator"
+		"aspect_ration": "4:3"
 	},
 	"bangbead": {
 		"game_name": "Bang Bead"
+	        "aspect_ration": "4:3"
 	},
 	"batcir": {
 		"game_name": "Battle Circuit"
+		"aspect_ration": "4:3"
 	},
 	"breakers": {
 		"game_name": "Breakers"
+		"aspect_ration": "4:3"
 	},
 	"breakrev": {
 		"game_name": "Breakers Revenge"
+		"aspect_ration": "4:3"
 	},
 	"bstars2": {
 		"game_name": "Baseball Stars 2"
+		"aspect_ration": "4:3"
 	},
 	"bucky": {
 		"game_name": "Bucky O'Hare"
+		"aspect_ration": "4:3"
 	},
 	"burningf": {
 		"game_name": "Burning Fight"
+		"aspect_ration": "4:3"
 	},
 	"captcomm": {
 		"game_name": "Captain Commando"
+		"aspect_ration": "4:3"
 	},
 	"crimfght": {
 		"game_name": "Crime Fighters"
+		"aspect_ration": ""
 	},
 	"crsword": {
 		"game_name": "Crossed Swords"
+		"aspect_ration": "4:3"
 	},
 	"cybots": {
 		"game_name": "Cyberbots - fullmetal madness"
+		"aspect_ration": "4:3"
 	},
 	"dankuga": {
  	   "game_name": "Dan-Ku-Ga"
+           "aspect_ration": "4:3"
 	},
 	"daraku": {
 		"game_name": "Daraku Tenshi - The Fallen Angels"
+		"aspect_ration": "4:3"
 	}, 
 	"ddragon": {
 		"game_name": "Double Dragon - Beat 'em up"
+                "aspect_ration": "4:3"
 	},
 	"ddragon2": {
 		"game_name": "Double Dragon II - The Revenge"
+                "aspect_ration": "4:3"
 	},
 	"ddragon3": {
 		"game_name": "Double Dragon 3 - The Rosetta Stone (US)"
+		"aspect_ration": "4:3"
 	},
 	"ddragon3j": {
 		"game_name": "Double Dragon 3 - The Rosetta Stone (Japan)"
+		"aspect_ration": "4:2"
 	},
 	"ddtod": {
 		"game_name": "Dungeons & Dragons - tower of doom"
+		"aspect_ration": "4:3"
 	},
 	"dino": {
 		"game_name": "Cadillacs & Dinosaurs"
+		"aspect_ration": "4:3"
 	},
 	"doubledr": {
 		"game_name": "Double Dragon - Fighting"
+		"aspect_ration": "4:3"
 	},
 	"fatfursp": {
 		"game_name": "Fatal Fury Special"
+		"aspect_ration": "4:3"
 	},
 	"fbfrenzy": {
 		"game_name": "Football Frenzy"
+		"aspect_ration": "4:3"
 	},
 	"ffight": {
 		"game_name": "Final Fight"
+		"aspect_ration": "4:3"
 	},
 	"flipshot": {
 		"game_name": "Battle Flip Shot"
+		"aspect_ration": "4:3"
 	},
 	"galaxyfg": {
 		"game_name": "Galaxy Fight - Universal Warriors"
